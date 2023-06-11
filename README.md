@@ -5,6 +5,9 @@ This project focuses on using machine learning techniques to predict insurance c
 **Dataset**
 The dataset used for this project contains information about insurance policyholders, including their demographic and health-related attributes, as well as the corresponding insurance claim amounts. It is a structured dataset with both numerical and categorical variables.
 
+**Data Source**
+https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health
+
 **Project Workflow**
 - Data Preprocessing: The dataset is cleaned and prepared for modeling. This includes handling missing values, encoding categorical variables using one-hot encoding, and scaling numerical features using the standard scaler.
 
