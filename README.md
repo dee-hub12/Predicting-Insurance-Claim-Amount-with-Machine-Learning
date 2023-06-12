@@ -1,4 +1,4 @@
-# Predicting-Insurance-Claim-Amount-Using-Demographic-And-Health-Conditions-Machine-Learning-Approach
+# Predicting-Insurance-Claim-Amount-A-Machine-Learning-Approach
 
 This project focuses on using machine learning techniques to predict insurance claim amounts. The goal is to develop a model that can accurately estimate the claim amount based on various factors such as age, gender, BMI, smoking status, region, diabetic condition, blood pressure, and number of children.
 
